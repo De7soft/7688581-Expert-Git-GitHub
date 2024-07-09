@@ -18,7 +18,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-Correction des erreurs avec git et github
+Correction des erreurs avec git et github.
 ```
 
 
